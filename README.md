@@ -39,11 +39,11 @@ Module 4
   
   ![Math_Scores_Grade_1](Resources/Math_Scores_Grade_1.png)
   
-  ![Math_Scores_Grade_1](Resources/Math_Scores_Grade_1.png)
+  ![Math_Scores_Grade_2](Resources/Math_Scores_Grade_2.png)
   
-  ![Reading_Scores_Grade_1](Resources/Math_Scores_Grade_1.png)
+  ![Reading_Scores_Grade_1](Resources/Reading_Scores_Grade_1.png)
   
-  ![Reading_Scores_Grade_1](Resources/Math_Scores_Grade_1.png)
+  ![Reading_Scores_Grade_2](Resources/Reading_Score_Grade_2.png)
   
   6. Scores by school spending
   
