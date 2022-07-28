@@ -14,15 +14,21 @@ Module 4
   
   #### Original District Summary 
   ![District_Summary_1](Resources/District_Summary_1.png)
-  ![District_Summary_2](Resources/District_Summary_2.png)
   
   #### TH_9th-Excluded District Summary
-    ![District_Summary_2](Resources/District_Summary_2.png)
+  ![District_Summary_2](Resources/District_Summary_2.png)
   
   2. How is the school summary affected?
+  3. 
+    #### Original District Summary 
+  ![District_Summary_1](Resources/District_Summary_1.png)
   
+  #### TH_9th-Excluded District Summary
+  ![District_Summary_2](Resources/District_Summary_2.png)
   
   3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+  Replacing the score of ninth grade Thomas High Schools students did not ultimately serve the analyses and may speak to inflated scores but with information into the rigor of curriculum or the student's academic reputation, it is dicidult to make assumptions
   
   
   ### How does replacing the ninth-grade scores affect the following:
