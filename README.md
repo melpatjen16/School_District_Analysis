@@ -41,10 +41,21 @@ Module 4
   
   ![Math_Scores_Grade_1](Resources/Math_Scores_Grade_1.png)
   
+  ![Reading_Scores_Grade_1](Resources/Math_Scores_Grade_1.png)
+  
+  ![Reading_Scores_Grade_1](Resources/Math_Scores_Grade_1.png)
+  
   6. Scores by school spending
   
+  ![Scores_Spending_1](Resources/Scores_Spending_1.png)
+  
+  ![Scores_Spending_2](Resources/Scores_Spending_2.png)
   
   7. Scores by school size
+  8. 
+  ![Scores_Size_1](Resources/Scores_Size_1.png)
+  
+  ![Scores_Size_2](Resources/Scores_Size_2.png)
   
   
   8. Scores by school type
