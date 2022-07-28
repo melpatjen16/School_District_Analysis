@@ -60,6 +60,8 @@ Module 4
   
   8. Scores by school type
   
+    ![Scores_Type_2](Resources/Scores_Type_2.png)
+  
 
 ## Summary:  Four changes in the updated school district analysis as a result of reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
   1. While there were questions regarding the Thomas High ninth grade scores, the analysis is inequitable since other schools were essentially penalized for including their ninth grade score for reading, but especially math. Overall, ninthe grade student scored lower than upper class students, which can be seen in the jump in Thomas High's overall score. 
