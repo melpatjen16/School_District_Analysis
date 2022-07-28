@@ -10,6 +10,13 @@ Module 4
 
   1. How is the district summary affected?
   
+  From the analysis, there were no significant changes. While the tables presented are in response to prompts, analysis of the scores indicate only slight variations in percent passing in math, reading, and overall. More specifically, the scores actually decreased with the exclusion of Thomas High School ninth graders. 
+  
+  #### Original District Summary 
+  ![Screenshot](screenshot.png)
+  
+  #### TH_9th-Excluded District Summary
+  ![Screenshot](screenshot.png)
   
   2. How is the school summary affected?
   
