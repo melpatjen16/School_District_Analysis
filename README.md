@@ -60,7 +60,7 @@ Module 4
   
   8. Scores by school type
   
-    ![Scores_Type_2](Resources/Scores_Type_2.png)
+  ![Scores_Type_2](Resources/Scores_Type_2.png)
   
 
 ## Summary:  Four changes in the updated school district analysis as a result of reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
